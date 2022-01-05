@@ -9,7 +9,7 @@ Table of Contents
 * [Usage](#usage)
 
 ## Requirements
-- [ ] Add requirements
+* [Gradle](https://gradle.org/)
 
 ## Usage
 - [ ] Add usage instructions
